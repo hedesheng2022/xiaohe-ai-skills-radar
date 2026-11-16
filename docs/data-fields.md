@@ -5,6 +5,7 @@
 | `record_key` | 数据记录的稳定键；未定位源文件的旧资料带 legacy 前缀 |
 | `skill_key` / `skill_path` | 抓取实际源文件后才填写的仓库加文件路径身份 |
 | `source_document_…` | 真实源文件的 URL、引用、提交 SHA、内容 SHA256、字节数与抓取时间 |
+| `source_copies` | 内容 SHA256 相同的其他来源，保留独立仓库、文件路径、精确提交与抓取时间，不因此新增页面 |
 | `source_summary_captured_at` | 旧摘要来源快照时间，不等于本次抓取或人工复核时间 |
 | `summary` / `summary_language` | 与网站同源的用途摘要；英文来源不会伪装成人工中文审核 |
 | `repository_stars` / `repository_star_delta_7d` / `repository_heat_score` | 仓库级公开热度，未知时为空 |

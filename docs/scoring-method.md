@@ -23,6 +23,10 @@
   "historyDays": 90,
   "reviewAfterUnseenDays": 60,
   "minimumRepositoryStars": 5,
+  "internalAutomationPathSegments": [
+    ".automations",
+    ".vc"
+  ],
   "seedRepositories": [
     "openai/skills",
     "anthropics/skills",
@@ -44,7 +48,9 @@
     "examples",
     "tests",
     "__tests__",
-    ".git"
+    ".git",
+    ".automations",
+    ".vc"
   ],
   "excludedRepositories": [],
   "policy": {
@@ -54,6 +60,9 @@
     "preserveExistingUrls": true,
     "monthlyReviewNeverDeletesAutomatically": true,
     "machineAdmissionIsNotEditorialReview": true,
+    "identicalDocumentShaHasOnePublicPrimary": true,
+    "retainDuplicateSourceEvidence": true,
+    "internalRepositoryAutomationsRequireResearch": true,
     "formalCollectionRequiresReleaseGate": true
   }
 }
