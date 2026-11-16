@@ -1,0 +1,64 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Xiaohe AI Skills Radar dataset",
+  "type": "object",
+  "required": [
+    "metadata",
+    "entries"
+  ],
+  "properties": {
+    "metadata": {
+      "type": "object",
+      "required": [
+        "schema_version",
+        "captured_at",
+        "total_count",
+        "directory_url",
+        "popularity_scope",
+        "disclaimer"
+      ]
+    },
+    "entries": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "rank",
+          "slug",
+          "record_key",
+          "skill_key",
+          "identity_status",
+          "repository",
+          "skill_path",
+          "directory_url",
+          "repository_heat_scope",
+          "verification_level"
+        ],
+        "properties": {
+          "skill_key": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "skill_path": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "repository_heat_scope": {
+            "const": "repository"
+          },
+          "repository_stars": {
+            "type": [
+              "number",
+              "null"
+            ],
+            "minimum": 0
+          }
+        }
+      }
+    }
+  }
+}

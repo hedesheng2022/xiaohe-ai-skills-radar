@@ -1,0 +1,20 @@
+{
+  "snapshot_at": "2026-07-28",
+  "report_matches_snapshot": false,
+  "started_at": null,
+  "finished_at": null,
+  "collection_status": "no_matching_run_report",
+  "collection": null,
+  "catalog": {
+    "current": 309
+  },
+  "admitted": [],
+  "updated": [],
+  "rejected": [],
+  "removed": [],
+  "errors": [],
+  "publication": {
+    "status": "unknown",
+    "reason": "The collector report does not establish website publication."
+  }
+}
