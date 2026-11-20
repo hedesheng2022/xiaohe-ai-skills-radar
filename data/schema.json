@@ -56,6 +56,11 @@
               "null"
             ],
             "minimum": 0
+          },
+          "directory_pages": {
+            "type": "array",
+            "minItems": 1,
+            "description": "Every associated website page in its original directory order, with its own aliases and captured source evidence."
           }
         }
       }

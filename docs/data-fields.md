@@ -3,6 +3,9 @@
 | 字段 | 口径 |
 | --- | --- |
 | `record_key` | 数据记录的稳定键；未定位源文件的旧资料带 legacy 前缀 |
+| `directory_pages` / `directory_aliases` | 同一源文件的全部既有页面，保留各页原目录顺序、别名归属、摘要、历史安装量和独立源文件采集证据；顶层别名仅归属于代表页面 |
+| `directory_rank` | 代表页面在网站中的原顺序；顶层 rank 是按独立身份聚合后的连续顺序 |
+| `website_directory_count` / `grouped_directory_page_count` | 网站保留页面数，以及聚合后不再重复计为独立源文件的页面数 |
 | `skill_key` / `skill_path` | 抓取实际源文件后才填写的仓库加文件路径身份 |
 | `source_document_…` | 真实源文件的 URL、引用、提交 SHA、内容 SHA256、字节数与抓取时间 |
 | `source_copies` | 内容 SHA256 相同的其他来源，保留独立仓库、文件路径、精确提交与抓取时间，不因此新增页面 |
