@@ -1,12 +1,12 @@
 # 小贺 AI Skills Radar
 
-以独立 Skill 源文件为单位的资料目录与仓库热度快照，使用[小贺 AI Skills 目录](https://ai.xiao-he.top/skills.html)的同源数据。网站当前保留 **897** 个目录页面；本仓库按源文件身份聚合为 **895** 条资料，其中 **886** 条已抓到实际 SKILL.md，另外 **9** 条历史资料尚未定位并抓取源文件。所有网站页面、别名及各自的版本证据均保留在 `directory_pages`，未删除网站页面。
+以独立 Skill 源文件为单位的资料目录与仓库热度快照，使用[小贺 AI Skills 目录](https://ai.xiao-he.top/skills.html)的同源数据。网站当前保留 **1126** 个目录页面；本仓库按源文件身份聚合为 **1124** 条资料，其中 **1115** 条已抓到实际 SKILL.md，另外 **9** 条历史资料尚未定位并抓取源文件。所有网站页面、别名及各自的版本证据均保留在 `directory_pages`，未删除网站页面。
 
 - [浏览中文 Skills 目录](https://ai.xiao-he.top/skills.html)
 - [下载 JSON](data/skills-directory.json) · [下载 CSV](data/skills-directory.csv)
 - [查看采集报告](data/latest-run.json) · [数据字段](docs/data-fields.md) · [采集与排序规则](docs/scoring-method.md)
 
-数据快照：`2026-11-19T19:32:10.677Z`。网站发布成功后，发布流水线再同步本仓库；单独的采集成功记录不代表网站已发布。
+数据快照：`2026-11-20T19:31:09.802Z`。网站发布成功后，发布流水线再同步本仓库；单独的采集成功记录不代表网站已发布。
 
 > 自动采集不等于安装实测、安全审计或官方推荐。Stars、增长与热度均为仓库级快照，不是单个 Skill 的安装量。同一仓库中的不同 Skill 会共享这些仓库指标。
 
@@ -14,26 +14,26 @@
 
 | 顺序 | Skill | 所属仓库 | 仓库 Stars | 仓库热度 | 详情 |
 | ---: | --- | --- | ---: | ---: | --- |
-| 1 | [improve-codebase-architecture](https://github.com/mattpocock/skills/blob/5863806dd4e15c63174bee4e7515a4256792ecfa/skills/engineering/improve-codebase-architecture/SKILL.md) | mattpocock/skills | 325627 | 134.85 | [中文资料](https://ai.xiao-he.top/skills/improve-codebase-architecture.html) |
-| 2 | [tdd](https://github.com/mattpocock/skills/blob/5863806dd4e15c63174bee4e7515a4256792ecfa/skills/engineering/tdd/SKILL.md) | mattpocock/skills | 325627 | 134.85 | [中文资料](https://ai.xiao-he.top/skills/tdd.html) |
-| 3 | [setup-matt-pocock-skills](https://github.com/mattpocock/skills/blob/5863806dd4e15c63174bee4e7515a4256792ecfa/skills/engineering/setup-matt-pocock-skills/SKILL.md) | mattpocock/skills | 325627 | 134.85 | [中文资料](https://ai.xiao-he.top/skills/setup-matt-pocock-skills.html) |
-| 4 | [triage](https://github.com/mattpocock/skills/blob/5863806dd4e15c63174bee4e7515a4256792ecfa/skills/engineering/triage/SKILL.md) | mattpocock/skills | 325627 | 134.85 | [中文资料](https://ai.xiao-he.top/skills/triage.html) |
-| 5 | [handoff](https://github.com/mattpocock/skills/blob/5863806dd4e15c63174bee4e7515a4256792ecfa/skills/productivity/handoff/SKILL.md) | mattpocock/skills | 325627 | 134.85 | [中文资料](https://ai.xiao-he.top/skills/handoff.html) |
-| 6 | [prototype](https://github.com/mattpocock/skills/blob/5863806dd4e15c63174bee4e7515a4256792ecfa/skills/engineering/prototype/SKILL.md) | mattpocock/skills | 325627 | 134.85 | [中文资料](https://ai.xiao-he.top/skills/prototype.html) |
-| 7 | [teach](https://github.com/mattpocock/skills/blob/5863806dd4e15c63174bee4e7515a4256792ecfa/skills/productivity/teach/SKILL.md) | mattpocock/skills | 325627 | 134.85 | [中文资料](https://ai.xiao-he.top/skills/teach.html) |
-| 8 | [grilling](https://github.com/mattpocock/skills/blob/5863806dd4e15c63174bee4e7515a4256792ecfa/skills/productivity/grilling/SKILL.md) | mattpocock/skills | 325627 | 134.85 | [中文资料](https://ai.xiao-he.top/skills/grilling.html) |
-| 9 | [domain-modeling](https://github.com/mattpocock/skills/blob/5863806dd4e15c63174bee4e7515a4256792ecfa/skills/engineering/domain-modeling/SKILL.md) | mattpocock/skills | 325627 | 134.85 | [中文资料](https://ai.xiao-he.top/skills/domain-modeling.html) |
-| 10 | [codebase-design](https://github.com/mattpocock/skills/blob/5863806dd4e15c63174bee4e7515a4256792ecfa/skills/engineering/codebase-design/SKILL.md) | mattpocock/skills | 325627 | 134.85 | [中文资料](https://ai.xiao-he.top/skills/codebase-design.html) |
-| 11 | [diagnosing-bugs](https://github.com/mattpocock/skills/blob/5863806dd4e15c63174bee4e7515a4256792ecfa/skills/engineering/diagnosing-bugs/SKILL.md) | mattpocock/skills | 325627 | 134.85 | [中文资料](https://ai.xiao-he.top/skills/diagnosing-bugs.html) |
-| 12 | [ask-matt](https://github.com/mattpocock/skills/blob/5863806dd4e15c63174bee4e7515a4256792ecfa/skills/engineering/ask-matt/SKILL.md) | mattpocock/skills | 325627 | 134.85 | [中文资料](https://ai.xiao-he.top/skills/ask-matt.html) |
-| 13 | [implement](https://github.com/mattpocock/skills/blob/5863806dd4e15c63174bee4e7515a4256792ecfa/skills/engineering/implement/SKILL.md) | mattpocock/skills | 325627 | 134.85 | [中文资料](https://ai.xiao-he.top/skills/implement.html) |
-| 14 | [code-review](https://github.com/mattpocock/skills/blob/5863806dd4e15c63174bee4e7515a4256792ecfa/skills/engineering/code-review/SKILL.md) | mattpocock/skills | 325627 | 134.85 | [中文资料](https://ai.xiao-he.top/skills/code-review.html) |
-| 15 | [research](https://github.com/mattpocock/skills/blob/5863806dd4e15c63174bee4e7515a4256792ecfa/skills/engineering/research/SKILL.md) | mattpocock/skills | 325627 | 134.85 | [中文资料](https://ai.xiao-he.top/skills/research.html) |
-| 16 | [git-guardrails-claude-code](https://github.com/mattpocock/skills/blob/5863806dd4e15c63174bee4e7515a4256792ecfa/skills/misc/git-guardrails-claude-code/SKILL.md) | mattpocock/skills | 325627 | 134.85 | [中文资料](https://ai.xiao-he.top/skills/git-guardrails-claude-code.html) |
-| 17 | [wayfinder](https://github.com/mattpocock/skills/blob/5863806dd4e15c63174bee4e7515a4256792ecfa/skills/engineering/wayfinder/SKILL.md) | mattpocock/skills | 325627 | 134.85 | [中文资料](https://ai.xiao-he.top/skills/wayfinder.html) |
-| 18 | [setup-pre-commit](https://github.com/mattpocock/skills/blob/5863806dd4e15c63174bee4e7515a4256792ecfa/skills/misc/setup-pre-commit/SKILL.md) | mattpocock/skills | 325627 | 134.85 | [中文资料](https://ai.xiao-he.top/skills/setup-pre-commit.html) |
-| 19 | [scaffold-exercises](https://github.com/mattpocock/skills/blob/5863806dd4e15c63174bee4e7515a4256792ecfa/skills/misc/scaffold-exercises/SKILL.md) | mattpocock/skills | 325627 | 134.85 | [中文资料](https://ai.xiao-he.top/skills/scaffold-exercises.html) |
-| 20 | [writing-shape](https://github.com/mattpocock/skills/blob/5863806dd4e15c63174bee4e7515a4256792ecfa/skills/in-progress/writing-shape/SKILL.md) | mattpocock/skills | 325627 | 134.85 | [中文资料](https://ai.xiao-he.top/skills/writing-shape.html) |
+| 1 | [rea-analysis-optimization](https://github.com/morluto/rea/blob/0bca5dbbe8b1bda63cf532304d99dd4e51cfe27f/.agents/skills/rea-analysis-optimization/SKILL.md) | morluto/rea | 471297 | 138.81 | [中文资料](https://ai.xiao-he.top/skills/morluto-rea-rea-analysis-optimization-f651f5acf0.html) |
+| 2 | [rea-changelog-update](https://github.com/morluto/rea/blob/0bca5dbbe8b1bda63cf532304d99dd4e51cfe27f/.agents/skills/rea-changelog-update/SKILL.md) | morluto/rea | 471297 | 138.81 | [中文资料](https://ai.xiao-he.top/skills/morluto-rea-rea-changelog-update-de22fff3d6.html) |
+| 3 | [rea-ci-tests-audit](https://github.com/morluto/rea/blob/0bca5dbbe8b1bda63cf532304d99dd4e51cfe27f/.agents/skills/rea-ci-tests-audit/SKILL.md) | morluto/rea | 471297 | 138.81 | [中文资料](https://ai.xiao-he.top/skills/morluto-rea-rea-ci-tests-audit-c1eeed94ab.html) |
+| 4 | [rea-tool-design](https://github.com/morluto/rea/blob/0bca5dbbe8b1bda63cf532304d99dd4e51cfe27f/.agents/skills/rea-tool-design/SKILL.md) | morluto/rea | 471297 | 138.81 | [中文资料](https://ai.xiao-he.top/skills/morluto-rea-rea-tool-design-5350955a5d.html) |
+| 5 | [reverse-engineer-anything](https://github.com/morluto/rea/blob/0bca5dbbe8b1bda63cf532304d99dd4e51cfe27f/.agents/skills/reverse-engineer-anything/SKILL.md) | morluto/rea | 471297 | 138.81 | [中文资料](https://ai.xiao-he.top/skills/morluto-rea-reverse-engineer-anything-5599954ab0.html) |
+| 6 | [improve-codebase-architecture](https://github.com/mattpocock/skills/blob/5863806dd4e15c63174bee4e7515a4256792ecfa/skills/engineering/improve-codebase-architecture/SKILL.md) | mattpocock/skills | 325627 | 134.85 | [中文资料](https://ai.xiao-he.top/skills/improve-codebase-architecture.html) |
+| 7 | [tdd](https://github.com/mattpocock/skills/blob/5863806dd4e15c63174bee4e7515a4256792ecfa/skills/engineering/tdd/SKILL.md) | mattpocock/skills | 325627 | 134.85 | [中文资料](https://ai.xiao-he.top/skills/tdd.html) |
+| 8 | [setup-matt-pocock-skills](https://github.com/mattpocock/skills/blob/5863806dd4e15c63174bee4e7515a4256792ecfa/skills/engineering/setup-matt-pocock-skills/SKILL.md) | mattpocock/skills | 325627 | 134.85 | [中文资料](https://ai.xiao-he.top/skills/setup-matt-pocock-skills.html) |
+| 9 | [triage](https://github.com/mattpocock/skills/blob/5863806dd4e15c63174bee4e7515a4256792ecfa/skills/engineering/triage/SKILL.md) | mattpocock/skills | 325627 | 134.85 | [中文资料](https://ai.xiao-he.top/skills/triage.html) |
+| 10 | [handoff](https://github.com/mattpocock/skills/blob/5863806dd4e15c63174bee4e7515a4256792ecfa/skills/productivity/handoff/SKILL.md) | mattpocock/skills | 325627 | 134.85 | [中文资料](https://ai.xiao-he.top/skills/handoff.html) |
+| 11 | [prototype](https://github.com/mattpocock/skills/blob/5863806dd4e15c63174bee4e7515a4256792ecfa/skills/engineering/prototype/SKILL.md) | mattpocock/skills | 325627 | 134.85 | [中文资料](https://ai.xiao-he.top/skills/prototype.html) |
+| 12 | [teach](https://github.com/mattpocock/skills/blob/5863806dd4e15c63174bee4e7515a4256792ecfa/skills/productivity/teach/SKILL.md) | mattpocock/skills | 325627 | 134.85 | [中文资料](https://ai.xiao-he.top/skills/teach.html) |
+| 13 | [grilling](https://github.com/mattpocock/skills/blob/5863806dd4e15c63174bee4e7515a4256792ecfa/skills/productivity/grilling/SKILL.md) | mattpocock/skills | 325627 | 134.85 | [中文资料](https://ai.xiao-he.top/skills/grilling.html) |
+| 14 | [domain-modeling](https://github.com/mattpocock/skills/blob/5863806dd4e15c63174bee4e7515a4256792ecfa/skills/engineering/domain-modeling/SKILL.md) | mattpocock/skills | 325627 | 134.85 | [中文资料](https://ai.xiao-he.top/skills/domain-modeling.html) |
+| 15 | [codebase-design](https://github.com/mattpocock/skills/blob/5863806dd4e15c63174bee4e7515a4256792ecfa/skills/engineering/codebase-design/SKILL.md) | mattpocock/skills | 325627 | 134.85 | [中文资料](https://ai.xiao-he.top/skills/codebase-design.html) |
+| 16 | [diagnosing-bugs](https://github.com/mattpocock/skills/blob/5863806dd4e15c63174bee4e7515a4256792ecfa/skills/engineering/diagnosing-bugs/SKILL.md) | mattpocock/skills | 325627 | 134.85 | [中文资料](https://ai.xiao-he.top/skills/diagnosing-bugs.html) |
+| 17 | [ask-matt](https://github.com/mattpocock/skills/blob/5863806dd4e15c63174bee4e7515a4256792ecfa/skills/engineering/ask-matt/SKILL.md) | mattpocock/skills | 325627 | 134.85 | [中文资料](https://ai.xiao-he.top/skills/ask-matt.html) |
+| 18 | [implement](https://github.com/mattpocock/skills/blob/5863806dd4e15c63174bee4e7515a4256792ecfa/skills/engineering/implement/SKILL.md) | mattpocock/skills | 325627 | 134.85 | [中文资料](https://ai.xiao-he.top/skills/implement.html) |
+| 19 | [code-review](https://github.com/mattpocock/skills/blob/5863806dd4e15c63174bee4e7515a4256792ecfa/skills/engineering/code-review/SKILL.md) | mattpocock/skills | 325627 | 134.85 | [中文资料](https://ai.xiao-he.top/skills/code-review.html) |
+| 20 | [research](https://github.com/mattpocock/skills/blob/5863806dd4e15c63174bee4e7515a4256792ecfa/skills/engineering/research/SKILL.md) | mattpocock/skills | 325627 | 134.85 | [中文资料](https://ai.xiao-he.top/skills/research.html) |
 
 ## 身份与资料来源
 
