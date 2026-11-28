@@ -1,12 +1,12 @@
 # 小贺 AI Skills Radar
 
-以独立 Skill 源文件为单位的资料目录与仓库热度快照，使用[小贺 AI Skills 目录](https://ai.xiao-he.top/skills.html)的同源数据。网站当前保留 **3148** 个目录页面；本仓库按源文件身份聚合为 **3146** 条资料，其中 **3137** 条已抓到实际 SKILL.md，另外 **9** 条历史资料尚未定位并抓取源文件。所有网站页面、别名及各自的版本证据均保留在 `directory_pages`，未删除网站页面。
+以独立 Skill 源文件为单位的资料目录与仓库热度快照，使用[小贺 AI Skills 目录](https://ai.xiao-he.top/skills.html)的同源数据。网站当前保留 **3541** 个目录页面；本仓库按源文件身份聚合为 **3539** 条资料，其中 **3530** 条已抓到实际 SKILL.md，另外 **9** 条历史资料尚未定位并抓取源文件。所有网站页面、别名及各自的版本证据均保留在 `directory_pages`，未删除网站页面。
 
 - [浏览中文 Skills 目录](https://ai.xiao-he.top/skills.html)
 - [下载 JSON](data/skills-directory.json) · [下载 CSV](data/skills-directory.csv)
 - [查看采集报告](data/latest-run.json) · [数据字段](docs/data-fields.md) · [采集与排序规则](docs/scoring-method.md)
 
-数据快照：`2026-11-26T19:33:16.871Z`。网站发布成功后，发布流水线再同步本仓库；单独的采集成功记录不代表网站已发布。
+数据快照：`2026-11-28T06:18:58.508Z`。网站发布成功后，发布流水线再同步本仓库；单独的采集成功记录不代表网站已发布。
 
 > 自动采集不等于安装实测、安全审计或官方推荐。Stars、增长与热度均为仓库级快照，不是单个 Skill 的安装量。同一仓库中的不同 Skill 会共享这些仓库指标。
 
